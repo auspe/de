@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Pirata+One&display=swap');
+
+body {
+  -webkit-font-smoothing: antialiased;
+  font-family: 'Pirata One', cursive;
+  color: #000;
+  background: antiquewhite;
+  background: #FFCC00;
+}
+
+summary {
+  font-weight: normal;
+  font-size: 3rem;
+}
+
+img {
+  max-width: 300px;
+}
+
+h1,
+h2 {
+  color: #f00;
+  font-family: 'PT sans', Arial, Helvetica, sans-serif;
+}
+
+hr {
+  color: #f00;
+}
+
+.tr {
+  font-family: 'Times New Roman', 'Times, serif';
+}
