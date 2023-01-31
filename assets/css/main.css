@@ -22,7 +22,7 @@ img {
 h1,
 h2 {
   color: #f00;
-  font-family: 'PT sans', Arial, Helvetica, sans-serif;
+  font-family: 'PT Sans', Arial, Helvetica, sans-serif;
 }
 
 hr {
@@ -31,6 +31,7 @@ hr {
 
 .en {
   color: #444;
+  font-family: 'PT Sans', Arial, Helvetica, sans-serif;
 }
 
 .tr {
